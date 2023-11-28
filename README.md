@@ -1,3 +1,0 @@
-# EstudosFacul
-
-Atividades da faculdade !
